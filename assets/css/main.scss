@@ -29,6 +29,11 @@ a {
     margin: 20px auto;
 }
 
+.spacer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 main {
 display: flex;
 flex: 1;
@@ -52,5 +57,12 @@ flex: 1;
                 text-decoration: none;
             }
         }
+    }
+}
+
+.app {
+    img {
+        max-width: 150px;
+        height: auto;
     }
 }
