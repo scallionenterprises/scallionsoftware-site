@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 
 Scallion Software is a software-focused company based out of New York, with the goal of making useful and enjoyable software.

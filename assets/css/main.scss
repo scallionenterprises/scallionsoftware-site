@@ -66,3 +66,20 @@ flex: 1;
         height: auto;
     }
 }
+
+.app-brief {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    img {
+        max-width: 75px;
+        height: auto;
+
+        margin-right: 20px;
+    }
+}
+
+img.app-screenshot {
+    max-width: 250px;
+    height: auto;
+}

@@ -11,5 +11,7 @@ layout: default
 Our first app is Token Soaring, a soaring-focused flight tracker.
 
 <div class="app">
-    <img src="/assets/img/tokensoaring.png" />
+    <a href="/token-soaring">
+        <img src="/assets/img/tokensoaring.png"/>
+    </a>
 </div>
