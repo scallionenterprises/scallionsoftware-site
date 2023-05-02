@@ -14,4 +14,4 @@ Your personal information is not collected or saved in any way by our software. 
 
 ### Analytics
 
-To help us understand how our software is used and can be improved, we may collect aggregate or anonymous data for analytics purposes. This data cannot be used to personally identify you in any way, and may include statistics like number of flights, elapsed flight time, and overall distance of the flight.
+To help us understand how our software is used and can be improved, we may collect aggregate or anonymous data for analytics purposes. This data cannot be used to personally identify you in any way, and may include statistics like number of flights, elapsed flight times, and overall flight distances.
