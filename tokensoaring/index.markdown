@@ -17,3 +17,7 @@ Currently we are working on a number of features:
 <ul>
     <li>Ability to export flights to GPX files</li>
 </ul>
+
+### Privacy policy
+
+Our privacy policy for the Token Soaring app can be [found here](/tokensoaring/privacy).
