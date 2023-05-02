@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Token Soaring Privacy Policy
 ---
 
 # Token Soaring Privacy Policy
