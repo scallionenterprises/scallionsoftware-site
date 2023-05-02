@@ -6,7 +6,7 @@ layout: default
 
 ### Overview
 
-This Privacy Policy describes how your personal information is handled in our Token Soaring iOS app.
+This Privacy Policy describes how your personal information is handled in the Token Soaring iOS app.
 
 ### No personal information is collected
 
