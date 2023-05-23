@@ -8,6 +8,10 @@ title: Token Soaring
     <h3>Token Soaring</h3>
 </div>
 
+<a href="https://apps.apple.com/us/app/token-soaring/id6448709457">
+    <img src="/assets/img/appstore.svg" style="height:50px;width: auto"/>
+</a>
+
 Token Soaring is a soaring flight tracker. It allows you to see total flight time, elapsed time, altitude, flight path, and altitude rate of change along the entire flight path.
 
 <img class="app-screenshot" src="/assets/img/tokensoaring-map-flight.png"/>

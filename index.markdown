@@ -16,3 +16,6 @@ Our first app is Token Soaring, a soaring-focused flight tracker.
     </a>
 </div>
 
+<a href="https://apps.apple.com/us/app/token-soaring/id6448709457">
+    <img src="/assets/img/appstore.svg" style="height:50px;width: auto"/>
+</a>
